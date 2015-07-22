@@ -1,2 +1,2 @@
 # watirExample
-samples of watir webdriver
+watir webdriver examples
