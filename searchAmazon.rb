@@ -1,5 +1,5 @@
 require_relative "page_object"
-
+# catch args from terminal
 browser = ARGV[0]
 url = ARGV[1]
 
